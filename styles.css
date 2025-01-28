@@ -59,3 +59,9 @@ body, html {
     height: 75px;
 }
 
+p {
+    text-align: left;
+    color: white;
+}
+
+
