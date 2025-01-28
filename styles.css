@@ -61,7 +61,8 @@ body, html {
 
 p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    padding-right: 10px;
+    position:absolute;
+    right: 10px;
     text-align: right;
     color: white;
 }
