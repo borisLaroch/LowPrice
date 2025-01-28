@@ -60,7 +60,9 @@ body, html {
 }
 
 p {
-    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-right: 10px;
+    text-align: right;
     color: white;
 }
 
