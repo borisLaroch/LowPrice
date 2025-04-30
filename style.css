@@ -125,6 +125,10 @@ body {
     grid-row: 2 / span 1 ;
 }
 
+.description:hover {
+    width: 90%;
+}
+
 
 
 .lien {
