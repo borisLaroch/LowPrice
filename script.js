@@ -12,7 +12,7 @@ BtnPortfolio.addEventListener('mouseout', function () {
 })
 
 BtnContact.addEventListener("click", function () {
-    fond.style.opacity: 0;
+    fond.style.opacity = 0;
     Video.muted = false;
     Video.play();
     Video.volume = 0.3;
