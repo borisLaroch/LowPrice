@@ -15,7 +15,7 @@ BtnContact.addEventListener("click", function () {
     Video.muted = false;
     Video.stop();
     Video.play();
-    Video.volume = 0.1;
+    Video.volume = 0.3;
     fond.style.visibility = "hidden";
 })
 
