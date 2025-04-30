@@ -92,6 +92,10 @@ body {
 
 }
 
+.info:hover { 
+    width: 400px;
+    height: 400px;
+}
 
 .infotest {
     border-radius: 10px;
@@ -125,9 +129,6 @@ body {
     grid-row: 2 / span 1 ;
 }
 
-.description:hover {
-    width: 90%;
-}
 
 
 
