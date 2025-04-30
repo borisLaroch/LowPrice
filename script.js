@@ -14,8 +14,8 @@ BtnPortfolio.addEventListener('mouseout', function () {
 BtnContact.addEventListener("click", function () {
     fond.style.opacity = 0;
     Video.muted = false;
-    Video.restart();
-    
+    Video.stop();
+    Video.start();
     Video.volume = 0.3;
     
 })
